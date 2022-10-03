@@ -19,7 +19,7 @@ logo_site: "https://rsgsoton.net/"
 # For static delivery this section can all be ignored ==================================================================
 # Specify the location of the workshop
 venue: "online"           # name of location use "online" if online
-address: "https://teams.microsoft.com/l/team/19%3anRJk3MNnfx6-PZU-3teWVZv6hQ_SsbzJGPv9KeR1wdw1%40thread.tacv2/conversations?groupId=45a19c9b-703d-42a2-b658-7ee715c91298&tenantId=4a5378f9-29f4-4d3e-be89-669d03ada9d8"         # address of location or url of platform
+address: "https://teams.microsoft.com/l/channel/19%3a84YcNIEXUqcVUhjarxXM_lx-isi-W2VlDm4eExD_KZU1%40thread.tacv2/General?groupId=d990293c-f4cf-46cf-b34e-3736deee3fdc&tenantId=4a5378f9-29f4-4d3e-be89-669d03ada9d8"         # address of location or url of platform
 platform-name: "Teams"   # name of online platform e.g. Teams, Zoom e.t.c
 country: "gb"         # e.g. gb
 language: "en"        # e.g. en
@@ -27,9 +27,9 @@ latitude: "50.909698"    # latitude of location (Soton: 50.909698)
 longitude: "-1.404351"   # longitude of location (Soton: -1.404351)
 
 # Specify the start and end date of the lesson
-humandate: "11th October"      # e.g. "6th August"
+humandate: "27th October"      # e.g. "6th August"
 humantime: "09:15-13:00"      # e.g. "09:00-17:00"
-startdate: "2022-10-11"        # e.g. YYYY-MM-DD # e.g. YYYY-MM-DD # This is required for the surveys NOTE: 1990-1-1 will not work
+startdate: "2022-27-11"        # e.g. YYYY-MM-DD # e.g. YYYY-MM-DD # This is required for the surveys NOTE: 1990-1-1 will not work
 enddate: "2022-10-11"          # e.g. YYYY-MM-DD
 
 # Start time in minutes (0 to be clock-independent, 3:30 pm or 15:30 both okay).
@@ -38,11 +38,11 @@ start-time: "09:15"
 # Specify the details of the instructors and helpers
 # Can be list, or single string
 instructor:
-  - "Philip Grylls"
   - "Sam Mangham"
+  - "Edward Parkinson"
 instructor-email:
-  - "P.J.Grylls@southampton.ac.uk"
   - "s.mangham@soton.ac.uk"
+  - "ejp1v21@soton.ac.uk"
 
 # ======================================================================================================================
 
